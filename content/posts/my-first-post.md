@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2018-03-30T15:41:37+01:00
-draft: true
+draft: false
 ---
 
 ## Step 1. Install Hugo
