@@ -1,4 +1,4 @@
-baseURL = "http://www.falseneutral.net/"
+baseURL = "https://www.falseneutral.net/"
 languageCode = "en-us"
 title = "Technical Things"
 theme = "coder"
